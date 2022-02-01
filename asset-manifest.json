@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.384afae6.css",
+    "main.js": "/static/js/main.17ef211f.js",
+    "static/js/787.244618bc.chunk.js": "/static/js/787.244618bc.chunk.js",
+    "static/media/banner_full.png": "/static/media/banner_full.7065cb10b2149d32a432.png",
+    "static/media/vault_3_2_200.jpg": "/static/media/vault_3_2_200.5c889d11a54c723fc566.jpg",
+    "static/media/vault_1_3_200.jpg": "/static/media/vault_1_3_200.4af1e96a11e45903ed48.jpg",
+    "static/media/vault_3_1_200.jpg": "/static/media/vault_3_1_200.74abc2eb8411fda63049.jpg",
+    "static/media/vault_2_1_200.jpg": "/static/media/vault_2_1_200.17109abfceb4cb7ff383.jpg",
+    "static/media/vault_1_1_200.jpg": "/static/media/vault_1_1_200.5807eca16d5ba6fa549a.jpg",
+    "static/media/vault_4_1_200.jpg": "/static/media/vault_4_1_200.3245b18939e1ff128c71.jpg",
+    "static/media/vault_2_4_200.jpg": "/static/media/vault_2_4_200.91596406b9cdf8fc0458.jpg",
+    "static/media/vault_2_3_200.jpg": "/static/media/vault_2_3_200.b18b8bcd563955ac86cf.jpg",
+    "static/media/vault_1_4_200.jpg": "/static/media/vault_1_4_200.be943f8a47f7c58c4801.jpg",
+    "static/media/vault_4_2_200.jpg": "/static/media/vault_4_2_200.5754e5404f180d8e6b8e.jpg",
+    "static/media/vault_2_2_200.jpg": "/static/media/vault_2_2_200.79905b656fe1099646b4.jpg",
+    "static/media/vault_1_2_200.jpg": "/static/media/vault_1_2_200.b980c6019582cce8c9c6.jpg",
+    "static/media/vault_0_2_200.jpg": "/static/media/vault_0_2_200.a710cb39a346e86b5a62.jpg",
+    "static/media/vault_0_1_200.jpg": "/static/media/vault_0_1_200.3fe1f6e3604ffd46ec11.jpg",
+    "static/media/logo_180.png": "/static/media/logo_180.f2442a9b0f64ed0e6f14.png",
+    "static/media/how-works-pt.png": "/static/media/how-works-pt.6eb86c71f031fc41de45.png",
+    "static/media/vault_0_thumb_110.jpg": "/static/media/vault_0_thumb_110.2ed942dcb75fde0decce.jpg",
+    "static/media/vault_2_thumb_110.jpg": "/static/media/vault_2_thumb_110.3593d8c0027eb7956654.jpg",
+    "static/media/how-works-es.png": "/static/media/how-works-es.33b04aaddf9cf07d0bb5.png",
+    "static/media/vault_3_thumb_110.jpg": "/static/media/vault_3_thumb_110.f9df688e2249b9a12e28.jpg",
+    "static/media/vault_1_thumb_110.jpg": "/static/media/vault_1_thumb_110.5ebf44cc21c438e13b5c.jpg",
+    "static/media/how-works-en.png": "/static/media/how-works-en.fbec42cc845b56a33b2f.png",
+    "static/media/vault_4_thumb_110.jpg": "/static/media/vault_4_thumb_110.8d2cd21102bc231fec97.jpg",
+    "static/media/logo_240.jpg": "/static/media/logo_240.b91f022032c206f26372.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.384afae6.css.map": "/static/css/main.384afae6.css.map",
+    "main.17ef211f.js.map": "/static/js/main.17ef211f.js.map",
+    "787.244618bc.chunk.js.map": "/static/js/787.244618bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.384afae6.css",
+    "static/js/main.17ef211f.js"
+  ]
+}
