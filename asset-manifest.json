@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/prime-security/static/css/main.008455f0.css",
-    "main.js": "/prime-security/static/js/main.74a8dbf8.js",
+    "main.css": "/prime-security/static/css/main.799f4066.css",
+    "main.js": "/prime-security/static/js/main.1e51a083.js",
     "static/js/787.244618bc.chunk.js": "/prime-security/static/js/787.244618bc.chunk.js",
     "static/media/banner_full.png": "/prime-security/static/media/banner_full.7065cb10b2149d32a432.png",
     "static/media/vault_3_2_200.jpg": "/prime-security/static/media/vault_3_2_200.5c889d11a54c723fc566.jpg",
@@ -32,12 +32,12 @@
     "static/media/revicons.ttf": "/prime-security/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/prime-security/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/prime-security/index.html",
-    "main.008455f0.css.map": "/prime-security/static/css/main.008455f0.css.map",
-    "main.74a8dbf8.js.map": "/prime-security/static/js/main.74a8dbf8.js.map",
+    "main.799f4066.css.map": "/prime-security/static/css/main.799f4066.css.map",
+    "main.1e51a083.js.map": "/prime-security/static/js/main.1e51a083.js.map",
     "787.244618bc.chunk.js.map": "/prime-security/static/js/787.244618bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.008455f0.css",
-    "static/js/main.74a8dbf8.js"
+    "static/css/main.799f4066.css",
+    "static/js/main.1e51a083.js"
   ]
 }
