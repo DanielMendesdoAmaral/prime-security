@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/prime-security/static/css/main.5430e6e5.css",
-    "main.js": "/prime-security/static/js/main.9e82e129.js",
+    "main.js": "/prime-security/static/js/main.e7092716.js",
     "static/js/787.244618bc.chunk.js": "/prime-security/static/js/787.244618bc.chunk.js",
     "static/media/banner_full.png": "/prime-security/static/media/banner_full.7065cb10b2149d32a432.png",
     "static/media/vault_3_2_200.jpg": "/prime-security/static/media/vault_3_2_200.5c889d11a54c723fc566.jpg",
@@ -33,11 +33,11 @@
     "static/media/revicons.woff": "/prime-security/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/prime-security/index.html",
     "main.5430e6e5.css.map": "/prime-security/static/css/main.5430e6e5.css.map",
-    "main.9e82e129.js.map": "/prime-security/static/js/main.9e82e129.js.map",
+    "main.e7092716.js.map": "/prime-security/static/js/main.e7092716.js.map",
     "787.244618bc.chunk.js.map": "/prime-security/static/js/787.244618bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5430e6e5.css",
-    "static/js/main.9e82e129.js"
+    "static/js/main.e7092716.js"
   ]
 }
